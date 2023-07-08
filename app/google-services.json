@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823105911526",
+    "project_id": "sesionesdesarrollo-b27a8",
+    "storage_bucket": "sesionesdesarrollo-b27a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823105911526:android:eaa761b4f494cf99395927",
+        "android_client_info": {
+          "package_name": "zegel.ipae.clasesdesarrollo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823105911526-hfadt5jtkckq7jc3hr0rsmnp9pr94ffd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdW9nadtDl15vLfbPDAggBoPMytXWIW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823105911526-hfadt5jtkckq7jc3hr0rsmnp9pr94ffd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
