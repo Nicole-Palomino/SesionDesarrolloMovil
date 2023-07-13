@@ -5,7 +5,7 @@ object FireStoreCollection{
     val USUARIO = "usuario"
 }
 
-object FireDatabase{
+object FireStoreDocumentField{
     val FECHA = "fecha"
     val USUARIO_ID = "usuario_id"
 }
